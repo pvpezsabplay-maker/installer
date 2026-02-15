@@ -1,7 +1,7 @@
 --[[ Copium Uninstaller
 
      [VELOCITY]
-     Created By Sammz
+     Created By Nerv4
 
 ]]
 
